@@ -26,7 +26,7 @@ interface Writer
      *
      * @param \Whoops\Exception\Inspector $inspector
      */
-    public function write(Inspector $inspector): void;
+    public function write(Inspector $inspector);
 
     /**
      * Sets the output.

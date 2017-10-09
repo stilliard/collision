@@ -59,7 +59,7 @@ class Writer implements WriterContract
     /**
      * {@inheritdoc}
      */
-    public function write(Inspector $inspector): void
+    public function write(Inspector $inspector)
     {
         $this->renderTitle($inspector);
 

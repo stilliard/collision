@@ -18,7 +18,7 @@ Collision was created and maintained by [Nuno Maduro](https://github.com/nunomad
 
 ## Installation & Usage
 
-> **Requires [PHP 7.1+](https://php.net/releases/)**
+> **Requires [PHP 7.0+](https://php.net/releases/)**
 
 Require Collision project using [Composer](https://getcomposer.org):
 
